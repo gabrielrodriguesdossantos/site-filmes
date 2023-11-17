@@ -1,0 +1,36 @@
+body{
+    background-color: #040b0d;
+}
+
+h1{
+    color:#eba015
+}
+.cor1
+{
+background-color: #ff850a;
+}
+.btn {
+    background-color: white;
+
+    border:2px solid   white;
+    text-align: center;
+    display: block;
+    width: 250px;
+    padding: 2px 2px;
+}
+.btn1{
+
+    background-color: white;
+    border:2px solid   white;
+    text-align: center;
+    display: block;
+    width: 400px;
+    padding: 15px 15px;
+}
+#text-img{
+color:white
+}
+#text-img2{
+    color:white
+    }
+    
